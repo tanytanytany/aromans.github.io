@@ -1,0 +1,69 @@
+{
+	"products": [
+		{
+			"id": 9,
+			"url": "#",
+			"title": "Grifo",
+			"text": "Night lamp",
+			"labels": "",
+			"image": "01.jpg",
+			"price": "25$",
+			"priceOld": "30$",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+		{
+			"id": 10,
+			"url": "#",
+			"title": "Muggo",
+			"labels": [
+				{
+					"type": "sale",
+					"value": "-50%"
+				},
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"image": "02.jpg",
+			"price": "10$",
+			"priceOld": "20$",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+		{
+			"id": 11,
+			"url": "#",
+			"title": "Pingky",
+			"labels": [
+				{
+					"type": "sale",
+					"value": "-50%"
+				}
+			],
+			"image": "01.jpg",
+			"price": "13$",
+			"priceOld": "46$",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+		{
+			"id": 12,
+			"url": "#",
+			"title": "Potty",
+			"labels": [
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"image": "02.jpg",
+			"price": "33$",
+			"priceOld": "",
+			"shareUrl": "",
+			"likeUrl": ""
+		}
+	
+	]
+}
